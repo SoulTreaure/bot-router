@@ -1,0 +1,12 @@
+{
+  "name": "bot-router",
+  "version": "1.0.0",
+  "description": "OpenClaw 跨系统 Bot 消息路由插件",
+  "main": "bot_router_cron.js",
+  "scripts": {
+    "test": "node bot_router_cron.js"
+  },
+  "keywords": ["openclaw", "bot", "router", "cross-system", "messaging"],
+  "author": "SoulTreasure",
+  "license": "MIT"
+}
